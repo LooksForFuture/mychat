@@ -5,6 +5,7 @@ You can connect to anyone who has this mychat and you can chat completely safe.<
 
 <h2>Setup</h2>
 <ol>
+  <li>Write your custom IP and port in server.py file</li>
   <li>Put the server.py file on your server and install python rsa module on it by pip install rsa</li>
   <li>Run client file on your personal computer.</li>
   <li>Enter your username.</li>
