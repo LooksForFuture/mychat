@@ -8,7 +8,7 @@ You can connect to anyone who has this mychat and you can chat completely safe.<
   <li>Put the server.py file on your server and install python rsa module on it by pip install rsa</li>
   <li>Run client file on your personal computer.</li>
   <li>Enter your username.</li>
-  <li>Connect to anyone you want by entering <b>@+his/her username.</b></li>
+  <li>Connect to anyone you want by entering <label style="font-size:large">@+his/her username.</label></li>
   <li>And now, chat with complete security.</li>
 </ol>
 
