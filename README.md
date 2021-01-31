@@ -14,4 +14,5 @@ You can connect to anyone who has this mychat and you can chat completely safe.<
 </ol>
 
 <h1>Attention</h1>
+mychat's server only works on windows servers!!!
 If you want to use mychat contact me for the client file. mohammad.armin.niknami@gmail.com
